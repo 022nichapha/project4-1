@@ -1,5 +1,26 @@
 {
   "dependencies": {
     "lucide-react": "^0.539.0"
-  }
+  },
+  "name": "project4-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/022nichapha/project4-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/022nichapha/project4-1/issues"
+  },
+  "homepage": "https://github.com/022nichapha/project4-1#readme"
 }
